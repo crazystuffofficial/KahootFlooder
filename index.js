@@ -1,4 +1,4 @@
-var Kahoot = require("kahoot.js-updated");
+var Kahoot = require("kahoot.js-latest");
 var KahootApi = [];
 var random = require("random-name");
 const prompt = require('prompt-sync')();
